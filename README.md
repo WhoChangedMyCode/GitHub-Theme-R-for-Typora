@@ -9,7 +9,7 @@ Modifier: WhoChangedMyCode
 
 Modifier URI：https://github.com/WhoChangedMyCode
 
-Modifier UTI：https://github.com/WhoChangedMyCode/GitHub-Theme-R-for-Typora
+Modifier URI：https://github.com/WhoChangedMyCode/GitHub-Theme-R-for-Typora
 
 Description:
 
